@@ -1,1 +1,1 @@
-# WIFIPOS
+# wifipos_t-relay
